@@ -6,11 +6,5 @@
     "host": "localhost",
     "port": "5432",
     "dialect": "postgres",
-    "operatorsAliases": false,
-    "dialectOptions": {
-      "useUTC": false 
-    },
-    "timezone": "+05:30",
-    "logging": false
   }
 }
